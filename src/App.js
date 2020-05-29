@@ -1,11 +1,11 @@
 import React from 'react'
 
 //COMPONENTS
-import About from './components/About'
-import Navbar from './components/Navbar'
-import Header from './components/Header'
-import Contact from './components/Contact'
-import Footer from './components/Footer'
+import About from './components/about/About'
+import Navbar from './components/navbar/Navbar'
+import Header from './components/header/Header'
+import Contact from './components/contact/Contact'
+import Footer from './components/footer/Footer'
 
 import './App.css'
 
